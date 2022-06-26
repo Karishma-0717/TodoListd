@@ -17,7 +17,7 @@ To deploy this project run
 
     Sign in to www.netlify.com and goto Deploys
     Drag and drop the site output folder.
-    https://62a59f731ffcb3374950aaf5--thriving-chimera-9ee9d0.netlify.app/
+    https://app.netlify.com/sites/cute-gumption-1248cb/overview
 
 Tech Stack
 
